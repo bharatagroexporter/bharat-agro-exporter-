@@ -1,0 +1,108 @@
+<a href="nonbasmati.html" class="nav__dropdown-item" role="menuitem">
+                  <span class="nav__dropdown-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2a5 5 0 015 5c0 2.5-2 5-5 8-3-3-5-5.5-5-8a5 5 0 015-5z"/></svg></span>
+                  <span class="nav__dropdown-label">Non Basmati Rice</span>
+                </a>
+
+
+
+
+                basmati one now 
+                <a href="basmati.html" class="nav__dropdown-item" role="menuitem"
+                   style="background:var(--color-gold-muted);color:var(--color-dark);">
+                  <span class="nav__dropdown-icon" style="background:var(--color-gold);">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+                  </span>
+                  <span class="nav__dropdown-label">Basmati Rice</span>
+                </a>
+
+
+
+
+                1718 page 
+                 <a href="nonbasmati.html" class="nav__dropdown-item" role="menuitem">
+                  <span class="nav__dropdown-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2a5 5 0 015 5c0 2.5-2 5-5 8-3-3-5-5.5-5-8a5 5 0 015-5z"/></svg></span>
+                  <span class="nav__dropdown-label">Non Basmati Rice</span>
+                </a>
+
+
+
+                basmati one now 
+                 <a href="basmati.html" class="nav__dropdown-item" role="menuitem"
+                   style="background:var(--color-gold-muted);color:var(--color-dark);">
+                  <span class="nav__dropdown-icon" style="background:var(--color-gold);">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+                  </span>
+                  <span class="nav__dropdown-label">Basmati Rice</span>
+                </a>
+
+
+
+
+                now the time for non basmati highlights 
+                 <a href="nonbasmati.html" class="nav__dropdown-item" role="menuitem"
+                   style="background:var(--color-gold-muted);color:var(--color-dark);">
+                  <span class="nav__dropdown-icon" style="background:var(--color-gold);">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+                  </span>
+                  <span class="nav__dropdown-label">Non Basmati Rice</span>
+                </a>
+                
+
+                now basmati one 
+                <a href="basmati.html" class="nav__dropdown-item" role="menuitem">
+                  <span class="nav__dropdown-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2a5 5 0 015 5c0 2.5-2 5-5 8-3-3-5-5.5-5-8a5 5 0 015-5z"/></svg></span>
+                  <span class="nav__dropdown-label"> Basmati Rice</span>
+                </a>
+
+
+
+                now for spices 
+                <a href="spices.html" class="nav__dropdown-item" role="menuitem">
+                  <span class="nav__dropdown-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42"/></svg></span>
+                  <span class="nav__dropdown-label">Spices</span>
+
+
+                  now highlights one 
+                   <a href="spices.html" class="nav__dropdown-item" role="menuitem"
+                   style="background:var(--color-gold-muted);color:var(--color-dark);">
+                  <span class="nav__dropdown-icon" style="background:var(--color-gold);">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+                  </span>
+                  <span class="nav__dropdown-label">Spices</span>
+                </a>
+
+
+
+                svg for spices 
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42"/></svg>
+
+                svg for basmati 
+                <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+
+
+
+
+                again
+                <a href="spices.html" class="nav__dropdown-item" role="menuitem">
+                  <span class="nav__dropdown-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42"/></svg></span>
+                  <span class="nav__dropdown-label">Spices</span>
+                </a>
+                now the basmati one 
+                <a href="basmati.html" class="nav__dropdown-item" role="menuitem"
+                   style="background:var(--color-gold-muted);color:var(--color-dark);">
+                  <span class="nav__dropdown-icon" style="background:var(--color-gold);">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+                  </span>
+                  <span class="nav__dropdown-label">Basmati Rice</span>
+                </a>
+
+
+
+
+
+                8130341834
+
+
+
+                mail 
+                info@bharatagroexporter.com
